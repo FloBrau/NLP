@@ -1,0 +1,508 @@
+[
+  {
+    "entity": "Paris Agreement",
+    "aliases": [ "PA", "Paris Accord" ],
+    "claims": [
+      "aims to limit global warming to 4°C",
+      "was signed by China alone",
+      "has no legal force"
+    ]
+  },
+  {
+    "entity": "CO2 emissions",
+    "aliases": [ "carbon dioxide emissions", "CO2" ],
+    "claims": [
+      "contribute nothing to climate change",
+      "are beneficial for plants",
+      "have decreased since 1800",
+      "is good for us"
+    ]
+  },
+  {
+    "entity": "World Health Organization",
+    "aliases": [ "WHO", "World Health Org" ],
+    "claims": [
+      "is funded by pharmaceutical companies",
+      "created COVID-19 as a bioweapon",
+      "suppresses cures for diseases"
+    ]
+  },
+  {
+    "entity": "Intergovernmental Panel on Climate Change",
+    "aliases": [ "IPCC", "UN Climate Panel", "Climate Panel" ],
+    "claims": [
+      "exaggerates temperature records",
+      "suppresses evidence of natural climate cycles",
+      "is funded by oil companies",
+      "predicted ice age in the 1970s",
+      "is faking models",
+      "overpredicted global warming",
+      "edit sea level graphs to show rise",
+      "hide historical temperature drops",
+      "select only warming models for forecasts",
+      "delay publication until policy deadlines"
+    ]
+  },
+  {
+    "entity": "Climate models",
+    "aliases": [ "climate simulations", "GCMs" ],
+    "claims": [
+      "cannot predict more than a few months ahead",
+      "are manipulated to show warming",
+      "ignore solar and volcanic influences",
+      "consistently overestimate CO2 effects",
+      "are overestimating climate change"
+    ]
+  },
+  {
+    "entity": "Climate Change Act",
+    "aliases": [ "CCA", "UK climate law", "Climate Act" ],
+    "claims": [
+      "gives government unlimited power",
+      "forces rationing of food and fuel",
+      "is a backdoor to socialism",
+      "was passed without parliamentary vote"
+    ]
+  },
+  {
+    "entity": "Globalists",
+    "aliases": [ "powers that be", "New World Order" ],
+    "claims": [
+      "use chemtrails as part of a climate agenda",
+      "censor anyone who questions the climate narrative",
+      "plan to control the populace through environmental fear",
+      "admit to spraying toxins for the greater climate good"
+    ]
+  },
+  {
+    "entity": "Chemtrails",
+    "aliases": [ "chem-trails", "chemical trails", "geoengineering flights" ],
+    "claims": [
+      "are secretly used to poison populations",
+      "contain brain-altering neurotoxins",
+      "block sunlight to control global warming",
+      "are admitted by governments as climate mitigation"
+    ]
+  },
+  {
+    "entity": "Geoengineering",
+    "aliases": [ "solar radiation management", "climate spraying" ],
+    "claims": [
+      "is a covert program to manipulate weather",
+      "uses aircraft to disperse toxic aerosols",
+      "creates artificial clouds to cool Earth",
+      "is funded by secret globalist agendas"
+    ]
+  },
+  {
+    "entity": "Great Reset",
+    "aliases": [ "The Great Reset", "Global Reset Plan" ],
+    "claims": [
+      "is a plot to enslave humanity under a world government",
+      "will abolish private property and cash transactions",
+      "uses climate change as a pretext for mass surveillance",
+      "forces everyone to live in government-controlled smart cities"
+    ]
+  },
+  {
+    "entity": "Climate Change",
+    "aliases": [ "global warming", "climate crisis" ],
+    "claims": [
+      "is a hoax invented by scientists for funding",
+      "is caused by sunspots, not human activity",
+      "stopped rising since the 1990s",
+      "is a tool to justify new taxes"
+    ]
+  },
+  {
+    "entity": "Greenhouse Effect",
+    "aliases": [ "CO2 greenhouse effect", "carbon greenhouse" ],
+    "claims": [
+      "is a natural phenomenon unrelated to CO2 levels",
+      "cannot trap heat, it's just a theory",
+      "is contradicted by cloud cover variations",
+      "is manipulated to control energy policy"
+    ]
+  },
+  {
+    "entity": "United Nations",
+    "aliases": [ "UN", "United Nations" ],
+    "claims": [
+      "uses climate change to undermine national sovereignty",
+      "plans to enforce global emissions limits with troops",
+      "will impose a world carbon registry on all citizens",
+      "silences dissent by labeling critics 'deniers'"
+    ]
+  },
+  {
+    "entity": "Climate Alarmists",
+    "aliases": [ "alarmists", "climate hysterics" ],
+    "claims": [
+      "exaggerate weather events as proof of catastrophe",
+      "ignore data that contradicts warming narratives",
+      "use fear to push for extreme government control",
+      "silence dissent by labeling skeptics as deniers"
+    ]
+  },
+  {
+    "entity": "Environmental Extremists",
+    "aliases": [ "eco-radicals", "green zealots" ],
+    "claims": [
+      "advocate shutting down all industry overnight",
+      "demand draconian carbon rationing for citizens",
+      "portray natural climate cycles as apocalyptic threats",
+      "lobby for a global eco-police force"
+    ]
+  },
+  {
+    "entity": "Rothschild Family",
+    "aliases": [ "Rothschilds", "House of Rothschild", "Rothschild" ],
+    "claims": [
+      "finances global climate change denial campaigns",
+      "orchestrates carbon market manipulation for profit",
+      "owns majority stakes in major oil companies",
+      "uses climate policy to expand their banking empire"
+    ]
+  },
+  {
+    "entity": "Agenda 21",
+    "aliases": [ "UN Agenda 21", "sustainable development plan" ],
+    "claims": [
+      "forces people into climate-controlled urban zones",
+      "eliminates private land ownership in the name of conservation",
+      "uses environmental treaties to override national laws",
+      "compels global population reductions disguised as sustainability"
+    ]
+  },
+  {
+    "entity": "Wind Turbines",
+    "aliases": [ "windmills", "turbines" ],
+    "claims": [
+      "kill all the birds",
+      "make your home sick with noise",
+      "use more energy than they produce",
+      "are secretly spying on you"
+    ]
+  },
+  {
+    "entity": "Electric Cars",
+    "aliases": [ "EVs", "electric vehicles" ],
+    "claims": [
+      "are powered by coal plants",
+      "break down more often than gas cars",
+      "use rare metals that destroy nature",
+      "create more pollution when built"
+    ]
+  },
+  {
+    "entity": "Ice Melt",
+    "aliases": [ "ice melt", "glacier melt" ],
+    "claims": [
+      "is a natural cycle since the last ice age",
+      "stopped increasing in the 1990s",
+      "is caused by sun cycles, not CO2",
+      "is a hoax to push carbon taxes"
+    ]
+  },
+  {
+    "entity": "Sea Level Rise",
+    "aliases": [ "ocean rise", "rising seas" ],
+    "claims": [
+      "is only a few millimeters per decade",
+      "paused in the 2000s",
+      "is due to land sinking, not melt",
+      "will not flood any cities"
+    ]
+  },
+  {
+    "entity": "HAARP",
+    "aliases": [ "High Frequency Active Auroral Research Program" ],
+    "claims": [
+      "is a weapon that changes the weather",
+      "triggers earthquakes and tsunamis",
+      "can heat or cool entire regions",
+      "is used to punish unfriendly countries"
+    ]
+  },
+  {
+    "entity": "Ion Cannon",
+    "aliases": [ "weather cannon", "climate blaster" ],
+    "claims": [
+      "shoots ions to clear skies or create storms",
+      "dries out entire rivers in minutes",
+      "is tested over deserts to control sandstorms",
+      "is a secret weapon for the military"
+    ]
+  },
+  {
+    "entity": "Cattle Farming",
+    "aliases": [ "cow farms", "livestock industry" ],
+    "claims": [
+      "farts are not a significant source of methane",
+      "methane from cows has always existed and is harmless",
+      "anti-meat activists exaggerate cow emissions",
+      "methane measurements on farms are manipulated"
+    ]
+  },
+  {
+    "entity": "Methane",
+    "aliases": [ "CH4", "marsh gas" ],
+    "claims": [
+      "is a harmless natural gas with no warming effect",
+      "leaks reported by scientists are wildly overstated",
+      "is broken down quickly by atmosphere so can’t accumulate",
+      "is blamed on cows to divert attention from industry"
+    ]
+  },
+  {
+    "entity": "Little Ice Age",
+    "aliases": [ "LIA", "mini ice age" ],
+    "claims": [
+      "was colder than today without human influence",
+      "ended naturally around 1850",
+      "scientists deny its existence to push warming scare",
+      "proved climate always changes on its own"
+    ]
+  },
+  {
+    "entity": "Younger Dryas",
+    "aliases": [ "Younger Dryas event", "cold snap" ],
+    "claims": [
+      "caused a 1,300-year freeze with no human cause",
+      "proves sudden climate shifts are normal",
+      "ignored by alarmists who only show warming",
+      "was a million times stronger than today’s change"
+    ]
+  },
+  {
+    "entity": "Holocene Climatic Optimum",
+    "aliases": [ "Hypsithermal", "Holocene Thermal Maximum" ],
+    "claims": [
+      "had higher temperatures than now",
+      "ended long before industrial era began",
+      "scientists omit it to exaggerate modern warming",
+      "shows natural cycles dominate temperature"
+    ]
+  },
+  {
+    "entity": "Droughts",
+    "aliases": [ "water shortage", "dry spells" ],
+    "claims": [
+      "occur every century cyclically",
+      "reflect regular rainfall shifts",
+      "depend solely on seasonal changes",
+      "impact only local soil moisture"
+    ]
+  },
+  {
+    "entity": "Heatwaves",
+    "aliases": [ "extreme heat", "heat wave" ],
+    "claims": [
+      "intensify each decade globally",
+      "link only to sunspot cycles",
+      "follow natural weather patterns",
+      "peak then return to normal levels"
+    ]
+  },
+  {
+    "entity": "Coral Bleaching",
+    "aliases": [ "reef bleaching", "bleached coral" ],
+    "claims": [
+      "recover completely in months",
+      "trigger with sunlight exposure",
+      "happen during low tide events",
+      "match ancient reef records"
+    ]
+  },
+  {
+    "entity": "Rainforests",
+    "aliases": [ "tropical forests", "jungle" ],
+    "claims": [
+      "grow more area each year naturally",
+      "absorb only limited CO₂ amounts",
+      "regenerate fully after logging",
+      "function independently of climate change"
+    ]
+  },
+  {
+    "entity": "Volcanoes",
+    "aliases": [ "volcanic eruptions", "lava flows" ],
+    "claims": [
+      "emit more CO₂ than all human activities",
+      "drive temperature changes naturally",
+      "create long-term cooling effects",
+      "have shaped climate throughout history"
+    ]
+  },
+  {
+    "entity": "Urban Heat Island",
+    "aliases": [ "city heating", "urban warming" ],
+    "claims": [
+      "occurs only in dense cities",
+      "driven by concrete and asphalt",
+      "disappears in rural landscapes",
+      "is unrelated to global temperatures"
+    ]
+  },
+  {
+    "entity": "Climate Policy",
+    "aliases": [ "environmental law", "carbon policy" ],
+    "claims": [
+      "penalizes only small businesses",
+      "creates bureaucratic red tape",
+      "ignores energy independence goals",
+      "burdens consumers with higher taxes"
+    ]
+  },
+  {
+    "entity": "Temperature Records",
+    "aliases": [ "climate data", "weather charts" ],
+    "claims": [
+      "are adjusted retroactively to show warming",
+      "omit rural station data to bias results",
+      "are manipulated during election years",
+      "depend on satellite models that overstate trends"
+    ]
+  },
+  {
+    "entity": "Climate Refugees",
+    "aliases": [ "environmental migrants", "eco-refugees" ],
+    "claims": [
+      "will flood wealthy nations en masse",
+      "are a myth created for alarm",
+      "have never existed before 2000",
+      "are used to justify closed borders"
+    ]
+  },
+  {
+    "entity": "Carbon Offsets",
+    "aliases": [ "offset credits", "carbon credits" ],
+    "claims": [
+      "buying them cures pollution instantly",
+      "are sold by corrupt middlemen",
+      "fund no real tree planting",
+      "are counted twice in reports"
+    ]
+  },
+  {
+    "entity": "António Guterres",
+    "aliases": [ "Guterres", "UN Secretary-General" ],
+    "claims": [
+      "enforces global carbon taxes unilaterally",
+      "uses climate fears to expand UN powers",
+      "blocks fossil fuel research under guise of science",
+      "redirects climate aid into secret slush funds"
+    ]
+  },
+  {
+    "entity": "COP26 Summit",
+    "aliases": [ "Glasgow Climate Summit", "UN Climate Conference 2021" ],
+    "claims": [
+      "achieved no real emissions cuts",
+      "was a photo op for world leaders",
+      "sold out to fossil fuel lobbyists",
+      "ignored developing countries' concerns"
+    ]
+  },
+  {
+    "entity": "Polar Bear Population",
+    "aliases": [ "polar bears", "Arctic bears" ],
+    "claims": [
+      "thrive on melting sea ice",
+      "expand territory with warmer temperatures",
+      "increase birth rates in summer months",
+      "adapt successfully to open water hunting"
+    ]
+  },
+  {
+    "entity": "Biomass Burning",
+    "aliases": [ "forest fires", "slash-and-burn" ],
+    "claims": [
+      "release massive carbon plumes instantly",
+      "drive regional temperature spikes daily",
+      "expand annually with agricultural cycles",
+      "serve as hidden sources of pollution"
+    ]
+  },
+  {
+    "entity": "5G Networks",
+    "aliases": [ "fifth generation mobile", "5G towers", "5G" ],
+    "claims": [
+      "alter weather by heating the atmosphere",
+      "interfere with satellite climate sensors",
+      "amplify storm intensity near towers",
+      "serve as gateways for geoengineering signals"
+    ]
+  },
+  {
+    "entity": "Green Police",
+    "aliases": [ "eco-police", "carbon enforcers" ],
+    "claims": [
+      "patrol neighborhoods to monitor emissions",
+      "issue fines for high energy use",
+      "install tracking devices on appliances",
+      "conduct warrantless home inspections"
+    ]
+  },
+  {
+    "entity": "Geoengineering Research",
+    "aliases": [ "solar management", "climate intervention" ],
+    "claims": [
+      "deploy stratospheric mirrors for cooling",
+      "seed clouds to alter monsoon patterns",
+      "test climate weapons in secret trials",
+      "fund experiments without public oversight"
+    ]
+  },
+  {
+    "entity": "Carbon Tax Bond",
+    "aliases": [ "emissions bond", "pollution bond" ],
+    "claims": [
+      "locks personal savings until retirement",
+      "requires daily carbon allowance tracking",
+      "charges fees for household energy use",
+      "issues penalties for carbon overdrafts"
+    ]
+  },
+  {
+    "entity": "Weather Satellites",
+    "aliases": [ "climate satellites", "atmosphere drones" ],
+    "claims": [
+      "beam focused microwaves to alter storms",
+      "map private property radiation levels",
+      "control wind patterns with lasers",
+      "relay commands to ground weather guns"
+    ]
+  },
+  {
+    "entity": "Smart Meters",
+    "aliases": [ "smart energy meters", "digital meters" ],
+    "claims": [
+      "send data every second to utilities",
+      "limit power when carbon high",
+      "bill phantom usage remotely",
+      "support load-shedding by ordinance"
+    ]
+  },
+  {
+    "entity": "Climate Data Centers",
+    "aliases": [ "data centers", "climate hubs" ],
+    "claims": [
+      "store secret temperature records offline",
+      "alter raw readings before public release",
+      "synchronize adjustments across global networks",
+      "hide corrections that reduce warming trends"
+    ]
+  },
+  {
+    "entity": "Eco-ID Cards",
+    "aliases": [ "environment ID", "carbon ID", "enviroment card" ],
+    "claims": [
+      "assign personal carbon quotas to citizens",
+      "track all purchases through linked accounts",
+      "disable purchases when allowances expire",
+      "require biometric scans at retail checkouts"
+    ]
+  }
+]
+
