@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.22)  19 JUN 2025 15:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.22)  28 JUN 2025 20:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -436,39 +436,42 @@ LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
 ))
 LaTeX Info: Redefining \oldstylenums on input line 485.
- (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/libertine\LinLibertine_I.tex))
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 46.
-LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-TLF on input line 46.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/libertine\LinLibertine_I.tex)) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box66
+)
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 49.
+LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-TLF on input line 49.
  (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/libertine\ot1linuxlibertinet-tlf.fd
 File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 46.
+(Font)              scaled to size 12.0pt on input line 49.
  (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count325
-\l__pdf_internal_box=\box66
+\l__pdf_internal_box=\box67
 ) (nlp-report.aux)
 \openout1 = `nlp-report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -508,7 +511,7 @@ LaTeX Font Info:    ... okay on input line 46.
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count326
 \scratchdimen=\dimen193
-\scratchbox=\box67
+\scratchbox=\box68
 \nofMPsegments=\count327
 \nofMParguments=\count328
 \everyMPshowfont=\toks30
@@ -526,12 +529,13 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
+Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
  (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 46.
-Package hyperref Info: Link coloring OFF on input line 46.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 49.
+Package hyperref Info: Link coloring OFF on input line 49.
  (nlp-report.out) (nlp-report.out)
 \@outlinefile=\write3
 \openout3 = `nlp-report.out'.
@@ -539,29 +543,24 @@ Package hyperref Info: Link coloring OFF on input line 46.
 \c@mv@tabular=\count332
 \c@mv@boldtabular=\count333
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 48.
+(Font)              scaled to size 20.74pt on input line 51.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 48.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
+(Font)              scaled to size 14.4pt on input line 51.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 51.
  (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 51.
  (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 48.
+(Font)              scaled to size 10.0pt on input line 51.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 50.
+(Font)              scaled to size 17.28pt on input line 53.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 50.
+(Font)              scaled to size 17.28pt on input line 53.
 
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 60--61
-\OT1/LinuxLibertineT-TLF/m/n/12 con-sec-u-tive stages that il-lus-trate NLP tech-
- []
 
 
 
@@ -569,12 +568,12 @@ Underfull \hbox (badness 1546) in paragraph at lines 60--61
 
 
 {C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_lyu3x3.enc}]
-Underfull \hbox (badness 1484) in paragraph at lines 65--66
+Underfull \hbox (badness 1484) in paragraph at lines 67--68
 \OT1/LinuxLibertineT-TLF/m/n/12 els such as Con-vo-lu-tional Neu-ral Net-works
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 65--66
+Underfull \hbox (badness 1189) in paragraph at lines 67--68
 \OT1/LinuxLibertineT-TLF/m/n/12 (CNNs) and Long Short-Term Mem-ory Net-
  []
 
@@ -586,85 +585,118 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [2]
+Underfull \hbox (badness 1097) in paragraph at lines 77--78
+\OT1/LinuxLibertineT-TLF/m/n/12 Python's Se-quence-Matcher with a sim-i-lar-ity
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 77--78
+Underfull \hbox (badness 1622) in paragraph at lines 79--80
 \OT1/LinuxLibertineT-TLF/m/n/12 all to-kens ex-tracted with spaCy against an
  []
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 84--85
-\OT1/LinuxLibertineT-TLF/m/n/12 tures and hy-per-pa-ram-e-ters and to eval-u-ate
+Underfull \hbox (badness 2865) in paragraph at lines 81--82
+\OT1/LinuxLibertineT-TLF/m/n/12 Read-abil-ity In-dex (ARI) ([]Sen-ter and Smith[],
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 84--85
-\OT1/LinuxLibertineT-TLF/m/n/12 cance as-sessed at the 5% level. As a fi-nal
+Underfull \hbox (badness 1147) in paragraph at lines 81--82
+[]\OT1/LinuxLibertineT-TLF/m/n/12 1967[]), both cal-cu-lated with text-stat ([]Bansal[],
  []
 
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 92.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 92.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 96.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [3]
-Underfull \hbox (badness 1655) in paragraph at lines 89--92
-\OT1/LinuxLibertineT-TLF/m/n/12 jec-tive re-sults). Con-sider us-ing ta-bles and
+Overfull \hbox (28.66057pt too wide) in paragraph at lines 120--144
+ [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--102
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 3701) has occurred while \output is active []
+
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[4]
+Underfull \hbox (badness 1383) in paragraph at lines 154--155
+\OT1/LinuxLibertineT-TLF/m/n/12 i-tives, un-der-scor-ing the need for adapt-able,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
 \OT1/LinuxLibertineT-TLF/m/n/12 Summarize the key find-ings and im-pli-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--102
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
 \OT1/LinuxLibertineT-TLF/m/n/12 ca-tions (de-sign your re-port that one
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--102
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
 \OT1/LinuxLibertineT-TLF/m/n/12 get the main in-sights from read-ing ab-
  []
 
 
-Underfull \hbox (badness 4291) in paragraph at lines 100--102
+Underfull \hbox (badness 4291) in paragraph at lines 159--161
 \OT1/LinuxLibertineT-TLF/m/n/12 stract/introduction/conclusions and glanc-ing
  []
 
 
 
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 121.
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 121.
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 125.
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
 \OT1/LinuxLibertineT-TLF/m/n/12 In-tro-duc-tion, Re-late
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
 \OT1/LinuxLibertineT-TLF/m/n/12 Work, Meth-ods &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
 \OT1/LinuxLibertineT-TLF/m/n/12 Ma-te-ri-als (Ma-te-ri-als,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
 \OT1/LinuxLibertineT-TLF/m/n/12 Stage1, Stage2), Re-
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 128--129
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+\OT1/LinuxLibertineT-TLF/m/n/12 sults(Stage1, Stage2),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+\OT1/LinuxLibertineT-TLF/m/n/12 Dis-cus-sion(Stage1,
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 187--188
 []|\OT1/LinuxLibertineT-TLF/m/n/12 Did not even care to
  []
 
@@ -672,13 +704,12 @@ Underfull \hbox (badness 1412) in paragraph at lines 128--129
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 12.
 
+
+[5{C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_kijugd.enc}]
 Underfull \hbox (badness 1596) in paragraph at lines 24--30
 \OT1/LinuxLibertineT-TLF/m/it/12 ter-na-tional Jour-nal of Ad-vanced Com-puter
  []
 
-
-
-[4{C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_kijugd.enc}]
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 43.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
@@ -704,98 +735,138 @@ Underfull \hbox (badness 5696) in paragraph at lines 66--72
  []
 
 
-Underfull \hbox (badness 3514) in paragraph at lines 88--92
+Underfull \hbox (badness 1515) in paragraph at lines 75--85
+\OT1/LinuxLibertineT-TLF/m/n/12 June 2019. As-so-ci-a-tion for Com-pu-ta-tional
+ []
+
+
+
+
+Underfull \hbox (badness 3514) in paragraph at lines 101--105
 []\OT1/LinuxLibertineT-TLF/m/n/12 Daniel Ho-mola.  Boru-tapy: An all rel-e-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--98
+Underfull \hbox (badness 10000) in paragraph at lines 108--111
 []\OT1/LinuxLibertineT-TLF/m/n/12 Matthew Hon-ni-bal, Ines Mon-tani, Sofie
  []
 
 
-Underfull \hbox (badness 5388) in paragraph at lines 95--98
+Underfull \hbox (badness 5388) in paragraph at lines 108--111
 \OT1/LinuxLibertineT-TLF/m/n/12 Industrial-strength nat-u-ral lan-guage pro-
  []
 
 
-
-
-Underfull \hbox (badness 1248) in paragraph at lines 107--114
+Underfull \hbox (badness 1248) in paragraph at lines 120--127
 \OT1/LinuxLibertineT-TLF/m/n/12 con-spir-acy the-ory ar-rested in wash-ing-ton
  []
 
 
-Underfull \hbox (badness 3158) in paragraph at lines 107--114
+Underfull \hbox (badness 3158) in paragraph at lines 120--127
 \OT1/LinuxLibertineT-TLF/m/n/12 2016.  []$h‹ps : / / www . nytimes . com / 2016 / 12 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--114
+Underfull \hbox (badness 10000) in paragraph at lines 120--127
 \OT1/LinuxLibertineT-TLF/m/n/12 05 / us / pizzagate -[] comet -[] ping -[] pong -[] edgar -[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--114
+Underfull \hbox (badness 10000) in paragraph at lines 120--127
 \OT1/LinuxLibertineT-TLF/m/n/12 maddison -[] welch . html ? []r = 0$[]. Ac-cessed:
  []
 
 
-Underfull \hbox (badness 4181) in paragraph at lines 124--129
+Underfull \hbox (badness 4181) in paragraph at lines 144--149
 []\OT1/LinuxLibertineT-TLF/m/n/12 Saif M. Mo-ham-mad and Pe-ter D. Tur-ney.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--135
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 151--155
 []\OT1/LinuxLibertineT-TLF/m/n/12 Jack Mor-ris.  language-tool-python,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--135
+Underfull \hbox (badness 10000) in paragraph at lines 151--155
 \OT1/LinuxLibertineT-TLF/m/n/12 n.d.  []$h‹ps : / / github . com / jxmorris12 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--135
+Underfull \hbox (badness 10000) in paragraph at lines 151--155
 \OT1/LinuxLibertineT-TLF/m/n/12 language[]tool[]python$[]. Ac-cessed: 2025-
  []
 
 
-Underfull \hbox (badness 4353) in paragraph at lines 144--149
+Underfull \hbox (badness 4353) in paragraph at lines 164--169
 \OT1/LinuxLibertineT-TLF/m/n/12 Springer In-ter-na-tional Pub-lish-ing, Cham,
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 196--202
+[]\OT1/LinuxLibertineT-TLF/m/n/12 Alec Rad-ford, Karthik Narasimhan, Tim
+ []
 
-[5]
-Underfull \hbox (badness 1888) in paragraph at lines 202--206
+
+Underfull \hbox (badness 3271) in paragraph at lines 196--202
+\OT1/LinuxLibertineT-TLF/m/n/12 Sal-i-mans, and Ilya Sutskever.  Im-prov-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--202
+\OT1/LinuxLibertineT-TLF/m/n/12 ing lan-guage un-der-stand-ing by gen-er-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--202
+\OT1/LinuxLibertineT-TLF/m/n/12 a-tive pre-training.  Tech-ni-cal re-port,
+ []
+
+
+Underfull \hbox (badness 7576) in paragraph at lines 196--202
+\OT1/LinuxLibertineT-TLF/m/n/12 Ope-nAI, 2018.  []$h‹ps : / / cdn . openai . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--202
+\OT1/LinuxLibertineT-TLF/m/n/12 research -[] covers / language -[] unsupervised /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--202
+\OT1/LinuxLibertineT-TLF/m/n/12 language[]understanding[]paper . pdf$[]. Ac-
+ []
+
+
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 231--235
 []\OT1/LinuxLibertineT-TLF/m/n/12 Edson Tan-doc, Zheng Lim, and Rich Ling.
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 217--220
+Underfull \hbox (badness 2913) in paragraph at lines 246--249
 \OT1/LinuxLibertineT-TLF/m/n/12 n.d.  []$h‹ps : / / universaldependencies . org / u /
  []
 
-
-
 )
-Underfull \hbox (badness 5446) in paragraph at lines 146--147
+
+[7]
+Underfull \hbox (badness 5446) in paragraph at lines 205--206
 \OT1/LinuxLibertineT-TLF/m/n/12 More de-tails on the us-age of AI: []Zi-tier-
  []
 
-<example-image.pdf, id=195, 321.2pt x 240.9pt>
+<example-image.pdf, id=223, 321.2pt x 240.9pt>
 File: example-image.pdf Graphic file (type pdf)
 <use example-image.pdf>
-Package pdftex.def Info: example-image.pdf  used on input line 155.
+Package pdftex.def Info: example-image.pdf  used on input line 214.
 (pdftex.def)             Requested size: 161.32639pt x 120.99739pt.
 
 
-[6]
 
 
-
-[7
+[8
 
  <C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/mwe/example-image.pdf>] (nlp-report.aux)
  ***********
@@ -806,17 +877,17 @@ Package rerunfilecheck Info: File `nlp-report.out' has not changed.
 (rerunfilecheck)             Checksum: 12003E531A13CF6FAD2E972A6872742A;1177.
  ) 
 Here is how much of TeX's memory you used:
- 18612 strings out of 473522
- 362424 string characters out of 5714609
- 727596 words of memory out of 5000000
- 41554 multiletter control sequences out of 15000+600000
+ 18697 strings out of 473522
+ 364302 string characters out of 5714609
+ 734953 words of memory out of 5000000
+ 41629 multiletter control sequences out of 15000+600000
  585573 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,80p,3733b,1199s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,80p,3835b,1193s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb>
-Output written on nlp-report.pdf (7 pages, 327017 bytes).
+Output written on nlp-report.pdf (8 pages, 337569 bytes).
 PDF statistics:
- 248 PDF objects out of 1000 (max. 8388607)
- 56 named destinations out of 1000 (max. 500000)
+ 270 PDF objects out of 1000 (max. 8388607)
+ 63 named destinations out of 1000 (max. 500000)
  78 words of extra memory for PDF output out of 10000 (max. 10000000)
 

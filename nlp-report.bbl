@@ -1,0 +1,260 @@
+\begin{thebibliography}{34}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Albahar(2021)]{Albahar2021Hybrid}
+Marwan Albahar.
+\newblock A hybrid model for fake news detection: Leveraging news content and
+  user comments in fake news.
+\newblock \emph{IET Information Security}, 15\penalty0 (2):\penalty0 169--177,
+  2021.
+\newblock \doi{10.1049/ise2.12021}.
+
+\bibitem[Allcott and Gentzkow(2017)]{allcott2017social}
+Hunt Allcott and Matthew Gentzkow.
+\newblock Social media and fake news in the 2016 election.
+\newblock \emph{Journal of Economic Perspectives}, 31\penalty0 (2):\penalty0
+  211--236, 2017.
+\newblock \doi{10.1257/jep.31.2.211}.
+
+\bibitem[Alotaibi and Alhammad(2022)]{alotaibi2022rule}
+Fatimah~L. Alotaibi and Muna~M. Alhammad.
+\newblock Using a rule-based model to detect arabic fake news propagation
+  during covid-19.
+\newblock \emph{International Journal of Advanced Computer Science and
+  Applications}, 13\penalty0 (1), 2022.
+\newblock \doi{10.14569/IJACSA.2022.0130114}.
+
+\bibitem[Au et~al.(2022)Au, Ho, and Chiu]{au2022role}
+Cheuk~Hang Au, Kevin K.~W. Ho, and Dickson K.~W. Chiu.
+\newblock The role of online misinformation and fake news in ideological
+  polarization: Barriers, catalysts, and implications.
+\newblock \emph{Information Systems Frontiers}, 24\penalty0 (4):\penalty0
+  1331--1354, 2022.
+\newblock \doi{10.1007/s10796-021-10133-9}.
+
+\bibitem[Bailey(n.d.)]{NRClex}
+Mark Bailey.
+\newblock Nrc lexicon, n.d.
+\newblock
+  \url{https://github.com/DemetersSon83/NRCLex/blob/master/nrc_en.json}.
+  Accessed: 2025-06-17.
+
+\bibitem[Bansal(n.d.)]{textstat}
+Shivam Bansal.
+\newblock textstat, n.d.
+\newblock \url{https://github.com/textstat/textstat}. Accessed: 2025-06-17.
+
+\bibitem[Bird et~al.(2009)Bird, Klein, and Loper]{NLTK}
+Steven Bird, Ewan Klein, and Edward Loper.
+\newblock \emph{Natural Language Processing with Python}.
+\newblock O'Reilly Media, Inc., 1st edition, 2009.
+\newblock ISBN 0596516495.
+
+\bibitem[Chall and Dale(1995)]{chall1995readability}
+Jeanne~S. Chall and Edgar Dale.
+\newblock \emph{Readability Revisited: The New Dale--Chall Readability
+  Formula}.
+\newblock Brookline Books, Cambridge, MA, 1995.
+\newblock ISBN 1571290087.
+
+\bibitem[de~Oliveira et~al.(2021)de~Oliveira, Pisa, Lopez, de~Medeiros, and
+  Mattos]{deOliveira2021}
+Nicollas~R. de~Oliveira, Pedro~S. Pisa, Martin~Andreoni Lopez, Dianne
+  Scherly~V. de~Medeiros, and Diogo M.~F. Mattos.
+\newblock Identifying fake news on social networks based on natural language
+  processing: Trends and challenges.
+\newblock \emph{Information}, 12\penalty0 (1), 2021.
+\newblock \doi{10.3390/info12010038}.
+
+\bibitem[Devlin et~al.(2019)Devlin, Chang, Lee, and
+  Toutanova]{devlin-etal-2019-bert}
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova.
+\newblock {BERT}: Pre-training of deep bidirectional transformers for language
+  understanding.
+\newblock In Jill Burstein, Christy Doran, and Thamar Solorio, editors,
+  \emph{Proceedings of the 2019 Conference of the North {A}merican Chapter of
+  the Association for Computational Linguistics: Human Language Technologies,
+  Volume 1 (Long and Short Papers)}, pages 4171--4186, Minneapolis, Minnesota,
+  June 2019. Association for Computational Linguistics.
+\newblock \doi{10.18653/v1/N19-1423}.
+\newblock URL \url{https://aclanthology.org/N19-1423/}.
+
+\bibitem[Ferreira et~al.(2022)Ferreira, Ferreira, Bandeira, and
+  Ferreira]{ferreira2022impact}
+Carlos Ferreira, Vivian Ferreira, Rebeca Bandeira, and Luisa Ferreira.
+\newblock The impact of misinformation on the covid-19 pandemic.
+\newblock \emph{AIMS Public Health}, 9\penalty0 (2):\penalty0 262--277, 2022.
+\newblock \doi{10.3934/publichealth.2022018}.
+
+\bibitem[Flesch(1948)]{flesch}
+Rudolf Flesch.
+\newblock A new readability yardstick.
+\newblock \emph{Journal of Applied Psychology}, 32\penalty0 (3):\penalty0
+  221--233, 1948.
+\newblock \doi{10.1037/h0057532}.
+
+\bibitem[Homola(n.d.)]{boruta2}
+Daniel Homola.
+\newblock Borutapy: An all relevant feature selection method for python, n.d.
+\newblock \url{https://github.com/scikit-learn-contrib/boruta_py}. Accessed:
+  2024-06-17.
+
+\bibitem[Honnibal et~al.(2020)Honnibal, Montani, Van~Landeghem, and
+  Boyd]{spaCy}
+Matthew Honnibal, Ines Montani, Sofie Van~Landeghem, and Adriane Boyd.
+\newblock spacy: Industrial-strength natural language processing in python,
+  2020.
+
+\bibitem[Kursa and Rudnicki(2010)]{boruta1}
+Miron~B. Kursa and Witold~R. Rudnicki.
+\newblock Feature selection with the boruta package.
+\newblock \emph{Journal of Statistical Software}, 36\penalty0 (11):\penalty0
+  1–13, 2010.
+\newblock \doi{10.18637/jss.v036.i11}.
+
+\bibitem[Lipton(2016)]{2016pizzagate}
+Eric Lipton.
+\newblock Man motivated by ‘pizzagate’ conspiracy theory arrested in
+  washington gunfire.
+\newblock \emph{The New York Times}, December 2016.
+\newblock
+  \url{https://www.nytimes.com/2016/12/05/us/pizzagate-comet-ping-pong-edgar-maddison-welch.html?_r=0}.
+  Accessed: 2025-06-16.
+
+\bibitem[Liu et~al.(2019)Liu, Ott, Goyal, Du, Joshi, Chen, Levy, Lewis,
+  Zettlemoyer, and Stoyanov]{liu2019robertarobustlyoptimizedbert}
+Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer
+  Levy, Mike Lewis, Luke Zettlemoyer, and Veselin Stoyanov.
+\newblock Roberta: A robustly optimized bert pretraining approach, 2019.
+\newblock \url{https://arxiv.org/abs/1907.11692} Accessed: 2024-06-23.
+
+\bibitem[McKinney(2010)]{Pandas}
+Wes McKinney.
+\newblock Data structures for statistical computing in python.
+\newblock In St{\'e}fan van~der Walt and Jarrod Millman, editors,
+  \emph{Proceedings of the 9th Python in Science Conference}, pages 56--61,
+  2010.
+\newblock \doi{10.25080/Majora-92bf1922-00a}.
+
+\bibitem[Mohammad and Turney(2013)]{emotions}
+Saif~M. Mohammad and Peter~D. Turney.
+\newblock Crowdsourcing a word–emotion association lexicon.
+\newblock \emph{Computational Intelligence}, 29\penalty0 (3):\penalty0
+  436--465, 2013.
+\newblock \doi{10.1111/j.1467-8640.2012.00460.x}.
+
+\bibitem[Morris(n.d.)]{ltp}
+Jack Morris.
+\newblock language-tool-python, n.d.
+\newblock \url{https://github.com/jxmorris12/language_tool_python}. Accessed:
+  2025-06-17.
+
+\bibitem[Nasir et~al.(2021)Nasir, Khan, and Varlamis]{Nasir2021Hybrid}
+Jamal~Abdul Nasir, Osama~Subhani Khan, and Iraklis Varlamis.
+\newblock Fake news detection: A hybrid cnn-rnn based deep learning approach.
+\newblock \emph{International Journal of Information Management Data Insights},
+  1\penalty0 (1):\penalty0 100007, 2021.
+\newblock \doi{10.1016/j.jjimei.2020.100007}.
+
+\bibitem[Orlando(2023)]{orlando2023posttruth}
+Vittorio Orlando.
+\newblock \emph{Post-Truth Politics, Brexit, and European Disintegration},
+  pages 103--127.
+\newblock Springer International Publishing, Cham, 2023.
+\newblock \doi{10.1007/978-3-031-13694-8_6}.
+
+\bibitem[Pedregosa et~al.(2011)Pedregosa, Varoquaux, Gramfort, Michel, Thirion,
+  Grisel, Blondel, Prettenhofer, Weiss, Dubourg, Vanderplas, Passos,
+  Cournapeau, Brucher, Perrot, and Duchesnay]{scikit-learn}
+Fabian Pedregosa, Gaël Varoquaux, Alexandre Gramfort, Vincent Michel, Bertrand
+  Thirion, Olivier Grisel, Mathieu Blondel, Peter Prettenhofer, Ron Weiss,
+  Vincent Dubourg, Jake Vanderplas, Alexandre Passos, David Cournapeau,
+  Matthieu Brucher, Matthieu Perrot, and Édouard Duchesnay.
+\newblock Scikit-learn: Machine learning in python.
+\newblock \emph{Journal of Machine Learning Research}, 12:\penalty0 2825--2830,
+  2011.
+
+\bibitem[Pittman(2025)]{pittman2025truthtextmetaanalysismlbased}
+Jason~M. Pittman.
+\newblock Truth in text: A meta-analysis of ml-based cyber information
+  influence detection approaches, 2025.
+\newblock \url{https://arxiv.org/abs/2503.22686}. Accessed: 2025-06-17.
+
+\bibitem[Polu(2024)]{polu2024ai}
+Omkar~Reddy Polu.
+\newblock Ai-based fake news detection using nlp.
+\newblock \emph{International Journal of Artificial Intelligence \& Machine
+  Learning}, 3\penalty0 (2):\penalty0 231--239, 2024.
+\newblock \doi{10.34218/IJAIML_03_02_019}.
+
+\bibitem[Radford et~al.(2018)Radford, Narasimhan, Salimans, and
+  Sutskever]{radford2018improving}
+Alec Radford, Karthik Narasimhan, Tim Salimans, and Ilya Sutskever.
+\newblock Improving language understanding by generative pre-training.
+\newblock Technical report, OpenAI, 2018.
+\newblock
+  \url{https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf}.
+  Accessed: 2024-06-23.
+
+\bibitem[Repede and Brad(2023)]{repede2023comparison}
+\c{S}tefan~Emil Repede and Remus Brad.
+\newblock A comparison of artificial intelligence models used for fake news
+  detection.
+\newblock \emph{Bulletin of “Carol I” National Defence University},
+  12\penalty0 (1):\penalty0 114--131, 2023.
+\newblock \doi{10.53477/2284-9378-23-10}.
+
+\bibitem[Roozenbeek and van~der Linden(2024)]{Roozenbeek2024Psychology}
+Jon Roozenbeek and Sander van~der Linden.
+\newblock \emph{The Psychology of Misinformation}.
+\newblock Contemporary Social Issues Series. Cambridge University Press, 2024.
+
+\bibitem[Senter and Smith(1967)]{senter_smith_1967}
+Ross~J. Senter and Edward~A. Smith.
+\newblock Automated readability index.
+\newblock Technical Report AMRL-TR-6620, Aerospace Medical Research
+  Laboratories, U.S. Air Force, Wright-Patterson Air Force Base, OH, November
+  1967.
+
+\bibitem[Sudhakar and Kaliyamurthie(2022)]{Sudhakar2022Prediction}
+M.~Sudhakar and K.P. Kaliyamurthie.
+\newblock Effective prediction of fake news using two machine learning
+  algorithms.
+\newblock \emph{Measurement: Sensors}, 24:\penalty0 100495, 2022.
+\newblock \doi{10.1016/j.measen.2022.100495}.
+
+\bibitem[Tandoc et~al.(2017)Tandoc, Lim, and Ling]{article}
+Edson Tandoc, Zheng Lim, and Rich Ling.
+\newblock Defining “fake news”: A typology of scholarly definitions.
+\newblock \emph{Digital Journalism}, 6:\penalty0 1--17, 08 2017.
+\newblock \doi{10.1080/21670811.2017.1360143}.
+
+\bibitem[Tătaru et~al.(2024)Tătaru, Domenteanu, Delcea, Florescu, Orzan, and
+  Cotfas]{info15120742}
+George-Cristian Tătaru, Adrian Domenteanu, Camelia Delcea, Margareta~Stela
+  Florescu, Mihai Orzan, and Liviu-Adrian Cotfas.
+\newblock Navigating the disinformation maze: A bibliometric analysis of
+  scholarly efforts.
+\newblock \emph{Information}, 15\penalty0 (12), 2024.
+\newblock \doi{10.3390/info15120742}.
+
+\bibitem[universaldependencies.org(n.d.)]{universaldependencies}
+universaldependencies.org.
+\newblock Universal pos tags, n.d.
+\newblock \url{https://universaldependencies.org/u/pos/}. Accessed: 2025-06-16.
+
+\bibitem[Yuliani et~al.(2019)Yuliani, Abdollah, Sahib, and
+  Wijaya]{yuliani2019framework}
+S.Y. Yuliani, Mohd Faizal~Bin Abdollah, Shahrin Sahib, and Yunus~Supriadi
+  Wijaya.
+\newblock A framework for hoax news detection and analyzer used rule-based
+  methods.
+\newblock \emph{International Journal of Advanced Computer Science and
+  Applications}, 10\penalty0 (10), 2019.
+\newblock \doi{10.14569/IJACSA.2019.0101055}.
+
+\end{thebibliography}
