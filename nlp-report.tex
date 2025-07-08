@@ -37,7 +37,7 @@
 \fancyhead[R]{\thepage}
 
 % For incoming students, feel free to use your home university here
-\title{My NLP Project LUL} % Pick your title (you may go creative here)
+\title{How fake is climate change? A comparison of fake news detection approaches.} % Pick your title (you may go creative here)
 \author[1]{Braunegg, Florian} % Each author should be listed
 \author[2]{Second Author}
 \affil[1]{Graz University of Technology, Graz, Austria}
@@ -64,7 +64,7 @@ As part of the “Natural Language Processing” course at Graz University of Te
 \section{Related Work}
 Fake news can be broadly understood as information presented in the form of news that is intentionally false and designed to mislead its audience. While the definition is not universally agreed upon, broader interpretations such as the one adopted in this paper treat fake news as an umbrella term that includes both misinformation (false information shared without intent to deceive) and disinformation (false information shared deliberately). In this broader perspective, any misleading or incorrect content presented as news, regardless of intent, may be classified as fake news (\citeauthor{deOliveira2021} \citeyear{deOliveira2021}; for a discussion of the terminology see \citeauthor{article} \citeyear{article}). Although instances of fake news can be traced as far back as 2100–1200 BC \citep{Roozenbeek2024Psychology}, scholarly interest in the phenomenon has only gained significant momentum in recent years \citep{info15120742}. Despite definitional differences, fake news have far-reaching consequences for social cohesion, public opinion, institutional trust, and political development. Prominent examples of these consequences include the election of U.S. President Donald Trump \citep{allcott2017social}, the Brexit referendum \citep{orlando2023posttruth}, and the COVID-19 crisis \citep{ferreira2022impact}, all of which are closely linked to the digitization of society.
 
-Interest in fake news detection within the field of NLP began to grow significantly in the second decade of the 21st century. Early research on fake news detection primarily relied on traditional machine learning algorithms and, in some cases, rule-based systems. These systems operate by defining sets of rules or linguistic heuristics to classify articles. Rule-based systems generally exhibit lower accuracy compared to more advanced approaches, primarily due to their limited ability to capture contextual dependencies and adapt to dynamic linguistic variations. Consequently, they are prone to generating a high rate of false positives, especially when applied to sophisticated fake narratives or texts that deviate from their predefined rule configurations \citep{polu2024ai, repede2023comparison}. Applications of such rule-based approaches can be found, for example, in \citet{alotaibi2022rule}, who examined the spread of Arabic fake news during the COVID-19 pandemic, and in \citet{yuliani2019framework}, who developed a rule-based framework for hoax detection. When applied to larger or more complex text corpora, traditional machine learning algorithms such as Logistic Regression or Random Forest often outperform rule-based systems. Traditional machine learning algorithms rely on statistical modeling techniques and are capable of learning patterns directly from data. Although traditional machine learning algorithms are more flexible than rule-based systems, they still lack the ability to capture contextual information within text and depend heavily on manually engineered features and expert domain knowledge. Moreover, large amounts of data are often required to effectively train and fine tune these algorithms for specific tasks. Consequently, the performance and applicability of such models are highly dependent on how the problem is defined and on the quality of the manually engineered features they utilize \citep{polu2024ai, pittman2025truthtextmetaanalysismlbased}. Despite these limitations, comparative studies such as that by \citet{Sudhakar2022Prediction} demonstrate the considerable potential of traditional machine learning methods. The advent of deep learning marked a significant advancement in computational classification tasks, with models such as Convolutional Neural Networks (CNNs) and Long Short-Term Memory Networks (LSTMs) capable of learning hierarchical and sequential patterns directly from data. However, the introduction of the transformer architecture and the subsequent development of models such as BERT \citep{devlin-etal-2019-bert}, RoBERTa \citep{liu2019robertarobustlyoptimizedbert}, and GPT \citep{radford2018improving} represented a major breakthrough in natural language processing. Unlike earlier architectures, transformers leverage contextual embeddings and attention mechanisms to capture subtle dependencies and nuanced patterns in text that traditional machine learning models cannot handle. However, deep learning approaches still require substantial amounts of data, annotated datasets, and significant computational resources in order to achieve strong performance. Another major limitation of deep learning models is their lack of interpretability, as they often function as black-box systems whose internal decision-making processes are difficult to trace or explain \citep{polu2024ai, pittman2025truthtextmetaanalysismlbased}. In response to the limitations of individual approaches, recent research has proposed hybrid models for fake news detection that aim to combine the strengths of different techniques. \citet{Nasir2021Hybrid} for example proposed a CNN-RNN hybrid model and \citet{Albahar2021Hybrid} an SVM-RNN-BI-GT hybrid model for fake news detection.
+Interest in fake news detection within the field of NLP began to grow significantly in the second decade of the 21st century. Early research on fake news detection primarily relied on traditional machine learning algorithms and, in some cases, rule-based systems. These systems operate by defining sets of rules or linguistic heuristics to classify articles. Rule-based systems generally exhibit lower accuracy compared to more advanced approaches, primarily due to their limited ability to capture contextual dependencies and adapt to dynamic linguistic variations. Consequently, they are prone to generating a high rate of false positives, especially when applied to sophisticated fake narratives or texts that deviate from their predefined rule configurations \citep{polu2024ai, repede2023comparison}. Applications of such rule-based approaches can be found, for example, in \citet{alotaibi2022rule}, who examined the spread of Arabic fake news during the COVID-19 pandemic, and in \citet{yuliani2019framework}, who developed a rule-based framework for hoax detection. When applied to larger or more complex text corpora, traditional machine learning algorithms such as Logistic Regression or Random Forest often outperform rule-based systems. Traditional machine learning algorithms rely on statistical modeling techniques and are capable of learning patterns directly from data. Although traditional machine learning algorithms are more flexible than rule-based systems, they still lack the ability to capture contextual information within text and depend heavily on manually engineered features and expert domain knowledge. Moreover, large amounts of data are often required to effectively train and fine tune these algorithms for specific tasks. Consequently, the performance and applicability of such models are highly dependent on how the problem is defined and on the quality of the manually engineered features they utilize \citep{polu2024ai, pittman2025truthtextmetaanalysismlbased}. Despite these limitations, comparative studies such as that by \citet{Sudhakar2022Prediction} demonstrate the considerable potential of traditional machine learning methods. The advent of deep learning marked a significant advancement in computational classification tasks, with models such as Convolutional Neural Networks (CNNs) and Long Short-Term Memory Networks (LSTMs) capable of learning hierarchical and sequential patterns directly from data. However, the introduction of the transformer architecture and the subsequent development of models such as BERT \citep{devlin-etal-2019-bert}, RoBERTa \citep{liu2019robertarobustlyoptimizedbert}, and GPT \citep{radford2018improving} represented a major breakthrough in natural language processing. Unlike earlier architectures, transformers leverage contextual embeddings and attention mechanisms to capture subtle dependencies and nuanced patterns in text that traditional machine learning models cannot handle. However, deep learning approaches still require substantial amounts of data, annotated datasets, and significant computational resources in order to achieve strong performance. Another major limitation of deep learning models is their lack of interpretability, as they often function as black box systems whose internal decision-making processes are difficult to trace or explain \citep{polu2024ai, pittman2025truthtextmetaanalysismlbased}. In response to the limitations of individual approaches, recent research has proposed hybrid models for fake news detection that aim to combine the strengths of different techniques. \citet{Nasir2021Hybrid} for example proposed a CNN-RNN hybrid model and \citet{Albahar2021Hybrid} an SVM-RNN-BI-GT hybrid model for fake news detection.
 
 \section{Materials and Methods}
 \label{sec:methods}
@@ -74,7 +74,7 @@ In the second stage, we used pandas \citep{Pandas} to import the dataset and the
 
 PoS-tags were extracted using spaCy \citep{spaCy}, which also handled the tokenization. We restricted the PoS-tags to the 17 universal PoS categories defined in the Universal Dependencies framework \citep{universaldependencies} to extract easily interpretable logical units. The frequency of each tag was calculated relative to the total number of tokens in the article.
 
-Our fake claim detection process was based on a knowledge base consisting of two components: entities (with aliases) and concise fake claims. To reduce bias toward our articles and due to time constraints, all entries were extracted using a one-shot prompt from GPT-4o mini. Both elements were tokenized and lowercased using spaCy to facilitate matching; claims were further lemmatized and filtered with spaCy’s stopword list. Entity matching in the articles was performed using spaCy’s PhraseMatcher. For each matched entity, all sentences from the article containing it were collected, lowercased, lemmatized, and cleaned of non-alphanumeric tokens and stopwords. Each entity in multi-entity sentences was checked separately. Since exact wording was not guaranteed, synonyms were retrieved via WordNet from NLTK \citep{NLTK}, then also lemmatized and lowercased. To enhance fuzzy matching, we used Python’s SequenceMatcher with a similarity threshold of 0.9 for entities and 0.7 for claims. Each entity, claim pair was counted only once per article, regardless of the number of occurrences. The final feature was calculated as the number of unique matched pairs divided by the total number of sentences in the article.
+Our fake claim detection process was based on a knowledge base consisting of two components: entities (with aliases) and concise fake claims. To reduce bias toward our articles and due to time constraints, all entries were extracted using a one-shot prompt from GPT-4o mini \citep{openai_gpt4o_mini}. Both elements were tokenized and lowercased using spaCy to facilitate matching; claims were further lemmatized and filtered with spaCy’s stopword list. Entity matching in the articles was performed using spaCy’s PhraseMatcher. For each matched entity, all sentences from the article containing it were collected, lowercased, lemmatized, and cleaned of non-alphanumeric tokens and stopwords. Each entity in multi-entity sentences was checked separately. Since exact wording was not guaranteed, synonyms were retrieved via WordNet from NLTK \citep{NLTK}, then also lemmatized and lowercased. To enhance fuzzy matching, we used Python’s SequenceMatcher with a similarity threshold of 0.9 for entities and 0.7 for claims. Each entity, claim pair was counted only once per article, regardless of the number of occurrences. The final feature was calculated as the number of unique matched pairs divided by the total number of sentences in the article.
 
 To detect emotions in the text, we compared all tokens extracted with spaCy against an extended version of the NRC Word–Emotion Association Lexicon \citep{emotions}, as provided by \citet{NRClex}. For each article, we calculated the relative frequency of each emotion in proportion to all emotion-bearing terms. Based on insights from our manual analysis in Stage 1, we focused on four prevalent emotions: anger, anticipation, fear, and sadness.
 
@@ -114,12 +114,12 @@ The Random Forest classifier achieved a mean accuracy of 0.839 (0.834–0.843), 
 
 To assess the contribution of each selected feature to the model’s predictive performance, Table 2 presents their relative importance and mean values.
 \begin{table}[h!]
-    \renewcommand{\arraystretch}{1.2}
+    \renewcommand{\arraystretch}{1.3}
     \centering
     \begin{threeparttable}
-        \caption{Top 13 features ranked by mean decrease in impurity (MDI) and their mean values for fake and real news.}
+        \caption{Top 13 features ranked by mean decrease in impurity (MDI) and their mean values for fake and real news over 1000 random splits.}
         \label{tab:feature_importance}
-        \begin{tabular}{|>{\centering\arraybackslash}m{3.6cm}|>{\centering\arraybackslash}m{1.25cm}|>{\centering\arraybackslash}m{1.25cm}|>{\centering\arraybackslash}m{1.25cm}|}
+        \begin{tabular}{|>{\centering\arraybackslash}m{3.25cm}|>{\centering\arraybackslash}m{1.25cm}|>{\centering\arraybackslash}m{1.25cm}|>{\centering\arraybackslash}m{1.25cm}|}
             \hline
             \textbf{Feature} & \textbf{MDI} & \textbf{Fake} & \textbf{Real} \\
             \hline
@@ -139,7 +139,7 @@ To assess the contribution of each selected feature to the model’s predictive 
             \hline
         \end{tabular}
         \vspace{0.3em}
-        {\raggedright\footnotesize MDI: Mean Decrease in Impurity. ARI: Automated Readability Index.\par}
+        {\raggedright\footnotesize MDI: Mean Decrease in Impurity.\par}
     \end{threeparttable}
 \end{table}
 The headline-based PoS-tag ratios and the ARI together account for nearly 60\% of the overall feature importance. Among emotion features, only anticipation contributes meaningfully, and it is more prevalent in real news. Grammatical function words, error counts, and the knowledge-base feature have negligible impact. Feature means further show that real news tend to have higher noun and verb ratios and more readable headlines, whereas fake news rely more on proper nouns, pronouns, adjectives, determiners and punctuation.
@@ -164,50 +164,68 @@ Suggest future research (very briefly).
 \newpage
 
 \section*{Limitations}
-List potential limitations of your work, e.g., only English language.
+Since our dataset comprises only 150 articles, the models are highly tailored to this small sample. Additionally, the data was collected over a short period, focusing primarily on recent fake news related to climate change. To improve especially the external validity and generalizability of our results, a larger dataset covering a broader range of topics and a longer collection timeframe would have been necessary.
 
-\section*{Ethical Considerations}
-Please consider how your work could potentially be used and may cause some harm.
-Also, sustainability aspects can be reported here, e.g., how much CO2e does you approach require.
-
-\section*{Acknowledgments}
-Briefly acknowledge people, funding sources, or institutions.
+As outlined in the methodology, we also relied on GPT-4o mini to generate information for our knowledge base in Stage Two. While GPT-4o mini is a powerful tool for producing general statements about fake news, it lacks the depth and nuance that manual data collection can offer. As a result, the knowledge base used for our rule-based algorithm, whose outputs served as features for the Random Forest classifier, remained quite generic and therefore less robust.
 
 \section*{Contributions}
 % Add here a list of the individual contributions per team member
-\begin{table}[h!]
-    \centering
-    \caption{List of contributions per team member.}
-    \label{tab:contributions}
-    \begin{tabular}{lp{4cm}}
-        \toprule
-        \textbf{Team Member} & \textbf{Contribution} \\
-        \midrule
-        Florian Braunegg           & Stage0, Stage1, Stage2, Introduction, Relate Work, Methods \& Materials (Materials, Stage1, Stage2), Results(Stage1, Stage2), Discussion(Stage1, Stage2)\\
-        Another Name    & Did not even care to show up.    \\
-        \bottomrule
-    \end{tabular}
-\end{table}
+
+\captionsetup{justification=raggedright, singlelinecheck=false, skip=20pt}
+\captionof{table}{Contribution}
+\vspace{1em}
+\label{tab:evaluation_metrics}
+\begin{center}
+\begin{tabular}{|>{\centering\arraybackslash}m{2.5cm}|>{\centering\arraybackslash}m{4.5cm}|}
+    \hline
+    \textbf{Name} & \textbf{Contribution} \\
+    \hline
+    Florian Braunegg &
+        Stage0,\par
+        Stage1,\par
+        Stage2,\par
+        Introduction,\par
+        Related Work,\par
+        Methods \& Materials (Materials, Stage1, Stage2),\par
+        Results (Stage1, Stage2),\par
+        Discussion (Stage1, Stage2),\par
+        Limitations,\par
+        Acknowledgments
+    \\
+    \hline
+    Another Name & Did not even care to show up. \\
+    \hline
+\end{tabular}
+\end{center}
+\vspace{1em}
+\section*{Acknowledgments}
+This paper was written as part of the “Natural Language Processing” course held during the summer semester 2025 at Graz University of Technology. The materials used were collected by the course participants and individuals affiliated with the university. No monetary resources were involved in the preparation of this paper.
 
 \bibliographystyle{plainnat}
 \bibliography{bibliography}
 
 \appendix
 
-\section{Appendix - Overview}
+\section{Appendix - GPT-4o mini prompt (Stage 2)}
 
-The appendix can be used to add details, especially implementation aspects, or added evaluations.
-There is no page limit on the appendix.
-You may also report approaches that you tried, but did not work out.
-Additional examples can be reported, or prompts being used for generative AI.
+Prompt:
+Write fake news claims about climate change using the exact same structure as the example given. Do not alter the format at any time. Example: \{
+  "entity": "Paris Agreement",
+  "aliases": [ "PA", "Paris Accord" ],
+  "claims": [
+    "aims to limit global warming to 4°C",
+    "was signed by China alone",
+    "has no legal force"
+  ]
+\}
+
+
+
+
 
 \section{Appendix - Usage of AI}
-More details on the usage of AI: \href{https://www.tugraz.at/fileadmin/Studierende\_und\_Bedienstete/Information/Unsere\_TU\_Graz/Lehre\_an\_der\_TU\_Graz/Zitiervorschlaege_KI.pdf}{Zitiervorschlaege AI}
+Beside the mentioned use of GPT-4o mini in the text above, "AI" was only used for grammatical and structural corrections. All contents and ideas presented in this paper, where not explicitly marked as the intellectual property of other authors, are solely the result of the authors’ own work.
 
-\section{Appendix - Figure and Table Examples}
-Examples how to use figures, see Figure~\ref{fig:example} and tables, see Table~\ref{tab:contributions}.
-In double, just let Latex layout the illustrations for you, or position them at the top or bottom of a page.
-Is is common to capitalise nouns that are followed by numbers, as they are considered names (proper noun), e.g., Page 4.
 
 \begin{figure}
     \centering

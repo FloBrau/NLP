@@ -1,4 +1,4 @@
-\begin{thebibliography}{34}
+\begin{thebibliography}{35}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -81,7 +81,6 @@ Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova.
   Volume 1 (Long and Short Papers)}, pages 4171--4186, Minneapolis, Minnesota,
   June 2019. Association for Computational Linguistics.
 \newblock \doi{10.18653/v1/N19-1423}.
-\newblock URL \url{https://aclanthology.org/N19-1423/}.
 
 \bibitem[Ferreira et~al.(2022)Ferreira, Ferreira, Bandeira, and
   Ferreira]{ferreira2022impact}
@@ -159,6 +158,11 @@ Jamal~Abdul Nasir, Osama~Subhani Khan, and Iraklis Varlamis.
 \newblock \emph{International Journal of Information Management Data Insights},
   1\penalty0 (1):\penalty0 100007, 2021.
 \newblock \doi{10.1016/j.jjimei.2020.100007}.
+
+\bibitem[OpenAI(2025)]{openai_gpt4o_mini}
+OpenAI.
+\newblock Gpt-4o mini (large language model), 2025.
+\newblock \url{https://chat.openai.com/} Accessed: 2024-06-17.
 
 \bibitem[Orlando(2023)]{orlando2023posttruth}
 Vittorio Orlando.
